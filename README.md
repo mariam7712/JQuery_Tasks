@@ -15,13 +15,6 @@ Tabs/
 ├── script.js
 └── style.css
 
-📸 Gallery
-A simple image gallery with navigation buttons to view the next and previous images.
-
-- **HTML**: [index.html](Gallery/index.html)
-- **CSS**: [style.css](Gallery/style.css)
-- **JavaScript**: [script.js](Gallery/script.js)
-
 ⏳ Loading Animation
 A loading animation that expands a content box and reveals text and images with a fade-in effect.
 
