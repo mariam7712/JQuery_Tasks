@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+li {
+  margin: 0 10px;
+  padding: 10px;
+}
+ul {
+  display: flex;
+  list-style-type: none;
+}
+p {
+  background-color: #c6c6c6;
+  margin: 0;
+  padding: 10px;
+}
+.active {
+  background-color: #c6c6c6;
+}

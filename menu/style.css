@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.container {
+  height: 100vh;
+  background-color: #f9ebde;
+  width: 200px;
+}
+p {
+  color: #815854;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+span {
+  background-color: #815854;
+  color: #f9ebde;
+  display: block;
+  padding: 10px;
+}
+.a {
+  margin-bottom: 10px;
+}
