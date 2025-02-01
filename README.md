@@ -2,10 +2,6 @@
 Welcome to the Web Projects Collection! This repository contains a set of small web projects demonstrating various web development techniques using HTML, CSS, and JavaScript (with jQuery). Each project is organized in its own folder and showcases a unique functionality.
 
 📂 Project Structure
-Gallery/
-├── index.html
-├── script.js
-└── style.css
 loading/
 ├── index.html
 ├── script.js
